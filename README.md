@@ -18,13 +18,14 @@ Below are the projects included in this repository. Please navigate to a project
 * **Task:** Regression
 * **Go to project:** **[View Details](./California-Housing-Prices/README.md)**
 
-### 3. Autogluon tabular classification
+### 3. Autogluon Tabular Classification
 
-### 4. Autogluon Multimodal classification
+### 4. Autogluon Tabular Multimodal
 ---
 
 ## 🛠️ Core Technology
 
 Both projects leverage **AutoGluon**, an open-source, easy-to-use automated machine learning (AutoML) library. It simplifies the process of model training, hyperparameter tuning, and ensembling by automatically finding the best models for your data with minimal code.
+
 
 
